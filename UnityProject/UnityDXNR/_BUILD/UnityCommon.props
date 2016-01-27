@@ -1,8 +1,0 @@
-﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
-    <PropertyGroup>
-        <UnityInstallationDir>C:\Program Files\Unity\Editor</UnityInstallationDir>
-        <UnityWSAPlayerDir>C:\Program Files\Unity\Editor\Data\PlaybackEngines\MetroSupport</UnityWSAPlayerDir>
-        <UnityWSAToolsDir>$(SolutionDir)Unity\Tools</UnityWSAToolsDir>
-        <UnityProjectDir>C:\Users\admin\Documents\GitHub\01_DXNR\UnityProject\UnityDXNR</UnityProjectDir>
-    </PropertyGroup>
-</Project>
